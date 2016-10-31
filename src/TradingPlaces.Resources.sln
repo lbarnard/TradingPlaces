@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingPlaces.Resources", "TradingPlaces.Resources\TradingPlaces.Resources.csproj", "{89241454-655F-4427-A3CD-582FA6167E68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reutberg", "Reutberg\Reutberg.csproj", "{8ECB8646-B4F6-4DA6-9972-CE70E300D1A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{691DA818-A6A7-4DF0-B2A7-6B1265839A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89241454-655F-4427-A3CD-582FA6167E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89241454-655F-4427-A3CD-582FA6167E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89241454-655F-4427-A3CD-582FA6167E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89241454-655F-4427-A3CD-582FA6167E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ECB8646-B4F6-4DA6-9972-CE70E300D1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ECB8646-B4F6-4DA6-9972-CE70E300D1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ECB8646-B4F6-4DA6-9972-CE70E300D1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ECB8646-B4F6-4DA6-9972-CE70E300D1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691DA818-A6A7-4DF0-B2A7-6B1265839A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691DA818-A6A7-4DF0-B2A7-6B1265839A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691DA818-A6A7-4DF0-B2A7-6B1265839A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691DA818-A6A7-4DF0-B2A7-6B1265839A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
