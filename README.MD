@@ -25,5 +25,3 @@ There are 3 main methods available:
 decimal GetQuote(string ticker): Returns the current price for the specified ticker
 decimal Buy(string ticker, int quantity) : Executes a buy trade for the specified ticker and amount, and returns the value of the trade.
 decimal Sell(string ticker, int quantity) : Executes a sell  trade for the specified ticker and amount, and returns the value of the trade.
-
-
